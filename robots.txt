@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://longqglass.com/sitemap.xml
